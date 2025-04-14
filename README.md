@@ -18,4 +18,4 @@ Este repositório contém projetos e exemplos utilizando **HTML** com foco na cr
     cd html
     ```
 
-
+- [LinkedIn](https://www.linkedin.com/in/rayssa-borges-59097a288/)
